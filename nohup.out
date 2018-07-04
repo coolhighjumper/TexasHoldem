@@ -1,0 +1,16 @@
+[I 21:03:11.438 NotebookApp] Serving notebooks from local directory: /Users/chiang/Desktop/myRepo/TexasHoldem
+[I 21:03:11.438 NotebookApp] 0 active kernels
+[I 21:03:11.438 NotebookApp] The Jupyter Notebook is running at:
+[I 21:03:11.438 NotebookApp] http://localhost:8888/?token=800388ac8c55a02f5c2849f062f9892ae710b534488d185d
+[I 21:03:11.438 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:03:11.441 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=800388ac8c55a02f5c2849f062f9892ae710b534488d185d
+[I 21:03:11.630 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 21:03:21.058 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180704210310 (::1) 8.97ms referer=http://localhost:8888/notebooks/RLtest.ipynb
+[I 21:03:21.553 NotebookApp] Kernel started: 40e53c1b-34a9-416b-a44c-96e585da7bb4
+[I 21:03:22.349 NotebookApp] Adapting to protocol v5.1 for kernel 40e53c1b-34a9-416b-a44c-96e585da7bb4
+[I 21:30:42.845 NotebookApp] Saving file at /RLtest.ipynb
+[I 21:31:21.522 NotebookApp] Saving file at /RLtest.ipynb
